@@ -8,3 +8,10 @@ Our goal is to have an image on the front of the shirt that is created entirely 
 (And if you haven't already, register for the conference at http://user2014.stat.ucla.edu/)
 
 We're getting lots of great submissions, and some of them are quite different from one another. So for now, we're going to hold all submissions as separate branches. I just merged/reverted several times (sorry if you got many notifications) so we should be good with current submissions, but if you want to make a new submission, please submit a pull request to a new branch with your username.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
